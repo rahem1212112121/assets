@@ -1,0 +1,15 @@
+{
+  "name": "My Tokens",
+  "timestamp": "2026-11-24T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x55d35043495779813bECcD900d7Ba4ffBdae7955",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://rahem1212112121.github.io/assets/img/usdt.png"
+    }
+  ]
+}
